@@ -1,0 +1,42 @@
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.exe
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.dll.config
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.deps.json
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.runtimeconfig.json
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\oop assignment 2.pdb
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.csproj.AssemblyReference.cache
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.ChooseOrder.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.PendingOrder.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.TechnicianMenu.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.csproj.GenerateResource.cache
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.AssemblyInfoInputs.cache
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.AssemblyInfo.cs
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.csproj.CoreCompileInputs.cache
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.dll
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\refint\oop assignment 2.dll
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.pdb
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.genruntimeconfig.cache
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\ref\oop assignment 2.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\oop assignment 2\oop assignment 2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop assignment 2.csproj.CopyComplete
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.UpdateOrder.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.Login.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.AdminMenu.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.Income.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.RegisterReceptionist.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.RegisterTechnichian.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.ServiceReport.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.cusChangeServices.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.cusMenu.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.cusProfile.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.cusServiceDescription.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.CompletedOrder.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.GenerateReceipt.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.ReceptionistMenu.resources
+D:\oop assignment 2\oop assignment 2\obj\Debug\net6.0-windows\oop_assignment_2.RegisterCustomer.resources
